@@ -1,0 +1,33 @@
+# Ignora o ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Configs de IDEs
+.vscode/
+.idea/
+
+# Banco de dados local (caso exista)
+*.db
+
+# Arquivos compilados
+*.exe
+*.pyc
+*.pyd
+
+# Arquivo de dependências se for criado automaticamente
+pip-log.txt
+0pç.
