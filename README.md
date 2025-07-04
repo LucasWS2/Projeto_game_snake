@@ -22,7 +22,7 @@ Este é um clássico jogo da cobrinha (Snake) desenvolvido em **Python** usando 
 
 ## 🚀 Executando o jogo
 
-1. Certifique-se que o Pygame está instalado: pip install pygame
+1. Certifique-se que o Pygame está instalado com o comando: pip install pygame
 
 ## 🧑‍💻 Autor
 Lucas Agostinho Wszoek
